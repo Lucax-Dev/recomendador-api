@@ -1,0 +1,418 @@
+{
+  "synthetic": true,
+  "genres": [
+    "Animação",
+    "Aventura",
+    "Ação",
+    "Comédia",
+    "Drama",
+    "Ficção científica",
+    "Romance",
+    "Suspense"
+  ],
+  "users": [
+    {
+      "id": "demo-ana",
+      "name": "Ana"
+    },
+    {
+      "id": "demo-bruno",
+      "name": "Bruno"
+    },
+    {
+      "id": "demo-carla",
+      "name": "Carla"
+    },
+    {
+      "id": "demo-diego",
+      "name": "Diego"
+    },
+    {
+      "id": "demo-elisa",
+      "name": "Elisa"
+    },
+    {
+      "id": "demo-fabio",
+      "name": "Fabio"
+    },
+    {
+      "id": "demo-gabi",
+      "name": "Gabi"
+    },
+    {
+      "id": "demo-hugo",
+      "name": "Hugo"
+    },
+    {
+      "id": "demo-iris",
+      "name": "Iris"
+    },
+    {
+      "id": "demo-joao",
+      "name": "Joao"
+    }
+  ],
+  "movies": [
+    {
+      "id": "demo-m01",
+      "title": "Operação Horizonte",
+      "genres": [
+        "Ação",
+        "Suspense"
+      ],
+      "year": 2020
+    },
+    {
+      "id": "demo-m02",
+      "title": "Resgate na Serra",
+      "genres": [
+        "Ação",
+        "Aventura"
+      ],
+      "year": 2021
+    },
+    {
+      "id": "demo-m03",
+      "title": "Última Patrulha",
+      "genres": [
+        "Ação"
+      ],
+      "year": 2022
+    },
+    {
+      "id": "demo-m04",
+      "title": "Código de Aço",
+      "genres": [
+        "Ação",
+        "Ficção científica"
+      ],
+      "year": 2023
+    },
+    {
+      "id": "demo-m05",
+      "title": "Missão Aurora",
+      "genres": [
+        "Ação",
+        "Aventura"
+      ],
+      "year": 2024
+    },
+    {
+      "id": "demo-m06",
+      "title": "Planeta Azul",
+      "genres": [
+        "Ficção científica",
+        "Aventura"
+      ],
+      "year": 2025
+    },
+    {
+      "id": "demo-m07",
+      "title": "Órbita Perdida",
+      "genres": [
+        "Ficção científica"
+      ],
+      "year": 2020
+    },
+    {
+      "id": "demo-m08",
+      "title": "O Último Sinal",
+      "genres": [
+        "Ficção científica",
+        "Suspense"
+      ],
+      "year": 2021
+    },
+    {
+      "id": "demo-m09",
+      "title": "Cidade do Futuro",
+      "genres": [
+        "Ficção científica",
+        "Drama"
+      ],
+      "year": 2022
+    },
+    {
+      "id": "demo-m10",
+      "title": "A Vida em Cartas",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "year": 2023
+    },
+    {
+      "id": "demo-m11",
+      "title": "Dias de Sol",
+      "genres": [
+        "Drama"
+      ],
+      "year": 2024
+    },
+    {
+      "id": "demo-m12",
+      "title": "Depois da Chuva",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "year": 2025
+    },
+    {
+      "id": "demo-m13",
+      "title": "O Caminho de Casa",
+      "genres": [
+        "Drama",
+        "Aventura"
+      ],
+      "year": 2020
+    },
+    {
+      "id": "demo-m14",
+      "title": "Vizinhos em Apuros",
+      "genres": [
+        "Comédia"
+      ],
+      "year": 2021
+    },
+    {
+      "id": "demo-m15",
+      "title": "Férias Trocadas",
+      "genres": [
+        "Comédia",
+        "Aventura"
+      ],
+      "year": 2022
+    },
+    {
+      "id": "demo-m16",
+      "title": "Um Plano Quase Perfeito",
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "year": 2023
+    },
+    {
+      "id": "demo-m17",
+      "title": "Noite de Estreia",
+      "genres": [
+        "Comédia"
+      ],
+      "year": 2024
+    },
+    {
+      "id": "demo-m18",
+      "title": "A Ilha dos Ventos",
+      "genres": [
+        "Animação",
+        "Aventura"
+      ],
+      "year": 2025
+    },
+    {
+      "id": "demo-m19",
+      "title": "O Pequeno Cometa",
+      "genres": [
+        "Animação",
+        "Ficção científica"
+      ],
+      "year": 2020
+    },
+    {
+      "id": "demo-m20",
+      "title": "Clube dos Bichos",
+      "genres": [
+        "Animação",
+        "Comédia"
+      ],
+      "year": 2021
+    },
+    {
+      "id": "demo-m21",
+      "title": "Sombras da Estação",
+      "genres": [
+        "Suspense"
+      ],
+      "year": 2022
+    },
+    {
+      "id": "demo-m22",
+      "title": "O Quarto Fechado",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "year": 2023
+    },
+    {
+      "id": "demo-m23",
+      "title": "Encontro de Outono",
+      "genres": [
+        "Romance"
+      ],
+      "year": 2024
+    },
+    {
+      "id": "demo-m24",
+      "title": "Cartas para o Amanhã",
+      "genres": [
+        "Romance",
+        "Ficção científica"
+      ],
+      "year": 2025
+    }
+  ],
+  "ratings": [
+    {
+      "user_id": "demo-ana",
+      "movie_id": "demo-m01",
+      "score": 5
+    },
+    {
+      "user_id": "demo-ana",
+      "movie_id": "demo-m02",
+      "score": 4
+    },
+    {
+      "user_id": "demo-ana",
+      "movie_id": "demo-m06",
+      "score": 5
+    },
+    {
+      "user_id": "demo-bruno",
+      "movie_id": "demo-m01",
+      "score": 5
+    },
+    {
+      "user_id": "demo-bruno",
+      "movie_id": "demo-m03",
+      "score": 4
+    },
+    {
+      "user_id": "demo-bruno",
+      "movie_id": "demo-m04",
+      "score": 5
+    },
+    {
+      "user_id": "demo-bruno",
+      "movie_id": "demo-m07",
+      "score": 4
+    },
+    {
+      "user_id": "demo-carla",
+      "movie_id": "demo-m10",
+      "score": 5
+    },
+    {
+      "user_id": "demo-carla",
+      "movie_id": "demo-m11",
+      "score": 4
+    },
+    {
+      "user_id": "demo-carla",
+      "movie_id": "demo-m14",
+      "score": 1
+    },
+    {
+      "user_id": "demo-diego",
+      "movie_id": "demo-m06",
+      "score": 5
+    },
+    {
+      "user_id": "demo-diego",
+      "movie_id": "demo-m07",
+      "score": 5
+    },
+    {
+      "user_id": "demo-diego",
+      "movie_id": "demo-m08",
+      "score": 4
+    },
+    {
+      "user_id": "demo-elisa",
+      "movie_id": "demo-m14",
+      "score": 5
+    },
+    {
+      "user_id": "demo-elisa",
+      "movie_id": "demo-m15",
+      "score": 4
+    },
+    {
+      "user_id": "demo-elisa",
+      "movie_id": "demo-m16",
+      "score": 5
+    },
+    {
+      "user_id": "demo-fabio",
+      "movie_id": "demo-m18",
+      "score": 5
+    },
+    {
+      "user_id": "demo-fabio",
+      "movie_id": "demo-m19",
+      "score": 5
+    },
+    {
+      "user_id": "demo-fabio",
+      "movie_id": "demo-m20",
+      "score": 4
+    },
+    {
+      "user_id": "demo-gabi",
+      "movie_id": "demo-m21",
+      "score": 5
+    },
+    {
+      "user_id": "demo-gabi",
+      "movie_id": "demo-m22",
+      "score": 4
+    },
+    {
+      "user_id": "demo-gabi",
+      "movie_id": "demo-m08",
+      "score": 5
+    },
+    {
+      "user_id": "demo-hugo",
+      "movie_id": "demo-m10",
+      "score": 4
+    },
+    {
+      "user_id": "demo-hugo",
+      "movie_id": "demo-m12",
+      "score": 5
+    },
+    {
+      "user_id": "demo-hugo",
+      "movie_id": "demo-m23",
+      "score": 5
+    },
+    {
+      "user_id": "demo-iris",
+      "movie_id": "demo-m01",
+      "score": 4
+    },
+    {
+      "user_id": "demo-iris",
+      "movie_id": "demo-m06",
+      "score": 5
+    },
+    {
+      "user_id": "demo-iris",
+      "movie_id": "demo-m24",
+      "score": 5
+    }
+  ],
+  "watched": [
+    {
+      "user_id": "demo-ana",
+      "movie_id": "demo-m03"
+    },
+    {
+      "user_id": "demo-bruno",
+      "movie_id": "demo-m02"
+    }
+  ]
+}
